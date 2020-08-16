@@ -1,3 +1,10 @@
+/**
+ * Lourdes Julissa Cárcamo Reyes
+ * Abner Addiel Jiménez Vásquez 
+ * Oswar Moisés Cruz Núñez
+ * Lenguaje C, Visual Studio Code 1.36.1
+ */
+
 %{
 #include <stdio.h>
 #include <math.h>
